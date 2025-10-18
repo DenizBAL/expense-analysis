@@ -31,7 +31,7 @@ Veriler `expenses.csv` dosyasında tutulur ve analiz işlemleri **Jupyter Notebo
 
 1. Clone or download this repository:  
    ```bash
-   git clone https://github.com/<kullanici-adi>/expense-analysis.git
+   git clone https://github.com/<Deniz BAL>/expense-analysis.git
    ```
 
 2. Install required libraries:  
@@ -55,17 +55,6 @@ Veriler `expenses.csv` dosyasında tutulur ve analiz işlemleri **Jupyter Notebo
 - Visualize percentage distribution (Pie chart)  
 - Compare spending categories (Bar chart)  
 - Calculate summary statistics (`unique`, `value_counts`, `describe`)  
-
----
-
-## 📈 Example Chart / Örnek Grafik
-
-> You can add your pie chart image here later 👇  
-> (Grafik çıktını buraya ekleyebilirsin)
-
-```markdown
-![Expense Pie Chart](https://github.com/<kullanici-adi>/expense-analysis/blob/main/figures/pie_chart.png)
-```
 
 ---
 
