@@ -31,7 +31,7 @@ Veriler `expenses.csv` dosyasında tutulur ve analiz işlemleri **Jupyter Notebo
 
 1. Clone or download this repository:  
    ```bash
-   git clone https://github.com/<Deniz BAL>/expense-analysis.git
+   git clone https://github.com/<DenizBAL>/expense-analysis.git
    ```
 
 2. Install required libraries:  
